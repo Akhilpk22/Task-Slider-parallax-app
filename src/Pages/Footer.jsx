@@ -21,7 +21,7 @@ function Footer() {
             <div className="col-md-4">
               <h3>Follow Us</h3>
               <p>Stay connected on social media.</p>
-              {/* Add social media icons or links here */}
+              
             </div>
           </div>
         </div>

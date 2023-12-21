@@ -1,9 +1,9 @@
-/* Default styles for .content */
+
 .content {
     height: 80vh;
   }
   
-  /* Default styles for .text-content */
+  
   .text-content {
     position: absolute;
     top: 50%;
@@ -20,11 +20,11 @@
   /* Media query for screens smaller than 768px */
   @media (max-width: 768px) {
     .content {
-      height: 60vh; /* Adjust the height for smaller screens */
+      height: 60vh; 
     }
   
     .text-content {
-      font-size: 40px; /* Adjust the font size for smaller screens */
+      font-size: 40px; 
     }
   }
   
